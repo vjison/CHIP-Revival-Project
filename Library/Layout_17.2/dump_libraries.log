@@ -1,0 +1,225 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Thu Apr 18 07:54:35 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/vjison/Documents/CHIP/Layout_17.2/CHIP_v1_0_20151123.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  S1_5P1 being dumped.
+
+  TPC30T being dumped.
+
+  TPC40T being dumped.
+
+  R1X1_4 being dumped.
+
+  R0_6X1 being dumped.
+
+  R1_5X2 being dumped.
+
+  OX0_60Y1_25T being dumped.
+
+  VIA16D8 being dumped.
+
+  O1X0_25 being dumped.
+
+  O0_95X2_1P0_45X1_55 being dumped.
+
+  VIA18D10 being dumped.
+
+  VIA18X35 being dumped.
+
+  S1 being dumped.
+
+  C1_1P0_7 being dumped.
+
+  R0_4X0_2 being dumped.
+
+  O0_8X0_2 being dumped.
+
+  O0_2X0_8 being dumped.
+
+  R0_5X1_2 being dumped.
+
+  R1_4X1_2 being dumped.
+
+  R0_4X1_4 being dumped.
+
+  O2_4X1_6 being dumped.
+
+  R1_9X2_2 being dumped.
+
+  R0_8X0_9 being dumped.
+
+  R0_9X1_7 being dumped.
+
+  R0_9X1_8 being dumped.
+
+  C1_11P0_7 being dumped.
+
+  1210 being dumped.
+
+  R1_05X2_2 being dumped.
+
+  O1_65X0_2 being dumped.
+
+  O0_28X1_6 being dumped.
+
+  SP-4_1-3_55X3_55 being dumped.
+
+  C0_4 being dumped.
+
+  C0_6 being dumped.
+
+  S6P2 being dumped.
+
+  R2X3 being dumped.
+
+  S0_3 being dumped.
+
+  S0_6 being dumped.
+
+  S0_8 being dumped.
+
+  S1_9 being dumped.
+
+  VIA26 being dumped.
+
+  C1_4N being dumped.
+
+  C0_6N being dumped.
+
+  STD-V26P12AT36SM20 being dumped.
+
+  O50X40 being dumped.
+
+  O50X26 being dumped.
+
+  O64X40 being dumped.
+
+  C1_5P1 being dumped.
+
+  C3P2_3 being dumped.
+
+  C5_5P3 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  sp-4_1-3_55x3_55 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  tr34x48x15-45 being dumped.
+
+  trd350-300-45-4-50 being dumped.
+
+  trd410-360-45-4-50 being dumped.
+
+  trd155-125-45-4-40 being dumped.
+
+  trd205-155-45-4-50 being dumped.
+
+  tob1_5x2_4-1x1_9 being dumped.
+
+  trd13-3-45-1-3 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  crystal-4p-3225-h1a being dumped.
+
+  tsop-48h1_2a being dumped.
+
+  sot23-6 being dumped.
+
+  usb_af-011z_45h5_2a being dumped.
+
+  fbga96c80p9x13 being dumped.
+
+  con2x20-pt2_54-5_2x31_2h2a being dumped.
+
+  sw_4p_tc3061b being dumped.
+
+  pad5_5d3 being dumped.
+
+  wifi-1206 being dumped.
+
+  qfn49_0_4h0_8a being dumped.
+
+  tp30_smd being dumped.
+
+  tp40_smd being dumped.
+
+  usb-mic-a01sb141bh2_4a being dumped.
+
+  qfn44-ap6476-12x12h1_6a being dumped.
+
+  sod123h14a being dumped.
+
+  c0201 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  d0603 being dumped.
+
+  l0603 being dumped.
+
+  r0402 being dumped.
+
+  l3518 being dumped.
+
+  r0805 being dumped.
+
+  con2-pt2-6x6h4_7b being dumped.
+
+  sot23_5h14a being dumped.
+
+  cc0402 being dumped.
+
+  cc0603 being dumped.
+
+  cc0805 being dumped.
+
+  ct1210 being dumped.
+
+  wifi-ant-sd73412-011h1_3a being dumped.
+
+  tqfp177p0_4 being dumped.
+
+  rn0201 being dumped.
+
+  qfn20-pt0_5-3_65x4_65h1a being dumped.
+
+  pj-033smth4a being dumped.
+
+  sot-23 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               49
+Number of package symbols dumped:         35
+Number of shape symbols dumped:            1
+Number of flash symbols dumped:            7
+
+Total number of symbols dumped:           43
+*****************************************************
+

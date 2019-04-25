@@ -1,0 +1,121 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : CHIP_v1_0_20151123.brd                        )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Thu Apr 18 07:54:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/ant_2_wifi-1206_ant.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/ant_4_wifi-ant-sd73412-011h1_3a.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0201_18pf-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_cc0603_47uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/cap_0_c0201_104.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0201_nc.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_cc0603_10uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0402_47uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_cc0402_1uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_pol_ct1210_220uf10v.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0201_104.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0603_10uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_1_cc0402_102.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0402_1uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0201_102.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capnp_cc0603_47u63v.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_1_c0201_102.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_cc0402_1uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capnp_c0201_100pf_grm1555c1h18.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0201_8p.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_c0201_22pf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_c0201_104.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_c0201_271.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_c0201_331.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_cc0603_47uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_c0201_47pf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/capacitor_0_cc0805_22uf.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/led_0_d0603_pwr.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/diode_schottky_0_sod123h14a_1n5.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/diode_dual_sot-23_bat54s.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/led_0_d0603_stat.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/1_15ke100a_r0402_ncau0511p1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/1_15ke100a_r0402_ncau0561bp.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/con3_0_con2-pt2-6x6h4_7b_batter.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/phonojack_1_pj-033smth4a_hxqkpj.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/usb_mini_socket_2_usb-mic-a01sb.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/usb_mini_socket_5_usb_af-011z_4.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/inductor_1_l3518_22uh-dcr01r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/inductor_0_l3518_22uh-dcr01r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/inductor_1_l0603_18uh.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_10k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_nc-0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_6k8-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/nmos_xp151_sot23_sot-23_bsn20.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/npn_sot-23_mmbt3904.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_2k2.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/_0_c0201_24r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_1k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_2k2.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/_0_c0201_100k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_200k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/_0_c0201_100k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/_0_c0201_150k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_47k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_15k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_2k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r1_0805_c0201_10k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_0_c0201_0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r10805_c0201_0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/_0_c0201_2k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r10805_c0201_24r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_33k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_nc.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_27k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_nc-10k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_75r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_nc0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_100k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_r0805_0r03.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r10805_c0201_240r-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_510k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/_0_c0201_442k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_1k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_r0805_nc-0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_r0805_0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_r0402_1r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_0r.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_10k.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/resistor_c0201_1m.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r10805_c0201_2k-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r_c0201_240r-1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r-pack4_1_rn0201_0r4.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r-pack4_1_rn0201_33r4.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/r-pack4_1_rn0201_24r4.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/key-2pin_0_sw_4p_tc3061b_key-2p.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp30_smd_test.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp40_smd_d.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp40_smd_d-.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp40_smd_id.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp40_smd_dc3-set.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_pad5_5d3_ls.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp40_smd_vmic.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/t_point_r_tp40_smd_pmu-gpoi1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/aw1625_csi_elqfp176_3_tqfp177p0.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/rt9266pe_2_sot23_5h14a_lpw5210b.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/rt9266pe_3_sot23-6_lp6226sy72.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/rt9293b_0_sot23_5h14a_lp3220sab.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/cnlcd_0_con2x20-pt2_54-5_2x31_2.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/pcf8574t_1_qfn20-pt0_5-3_65x4_6.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/ddr3_0_fbga96c80p9x13_ddr3-fbga.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/aw1612_0_qfn49_0_4h0_8a_axp209.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/nand_flash_x8_tsop-48h1_2a_nand.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/rt9293b_0_sot23_5h14a_lp3220s_1.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/ampak_sip.txt': written successfully.
+Device file 'C:/Users/vjison/Documents/CHIP/Layout_17.2/crystal-4_3_crystal-4p-3225-h1a.txt': written successfully.
+
+  Created device files: 106
+

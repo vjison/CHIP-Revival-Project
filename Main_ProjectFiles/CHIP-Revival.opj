@@ -1,0 +1,42 @@
+(ExpressProject "CHIP-Revival"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\chip-rev-proj_lib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\chip-revival.dsn"
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (MPSSessionName "vjison")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\chip-revival.dsn")
+      (Path "Design Resources" ".\chip-revival.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\chip-revival.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\chip-rev-proj_lib.olb")
+      (Select "Design Resources" "Library" ".\chip-rev-proj_lib.olb"
+         "RTL8723BS"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 477 0 1206"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -36 60 2206 60 733"))
+      (Path
+         "C:\USERS\VJISON\DOCUMENTS\CHIP\CHIP-REVIVAL-PROJECT_V0.2\CHIP-REV-PROJ_LIB.OLB")
+      (Package "RTL8723BS")
+      (PartType "1")))
+  (PartMRUSelector))
